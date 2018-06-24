@@ -1,0 +1,15 @@
+JDBC auth
+https://javadeveloperzone.com/spring-boot/spring-boot-oauth2-jdbc-token-store-example/
+https://javadeveloperzone.com/spring-boot/spring-security-oauth-2-0-resource-server-example/
+
+Spring guide
+https://docs.spring.io/spring-security/site/docs/5.0.4.RELEASE/reference/htmlsingle/#jc-oauth2login
+
+Spring JDBC auth
+https://www.youtube.com/watch?v=dTAgI_UsqMg
+
+CustomUSerDetailsClass
+http://www.mkyong.com/spring-security/spring-security-hibernate-annotation-example/
+
+Git sources
+https://github.com/TechPrimers/spring-security-oauth-mysql-example/blob/master/DB_Dump.sql
