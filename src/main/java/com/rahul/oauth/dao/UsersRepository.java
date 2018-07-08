@@ -1,12 +1,11 @@
 package com.rahul.oauth.dao;
 
-import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
 
 import com.rahul.oauth.model.Users;
 
 
-
-public interface UsersRepository extends  JpaRepository<Users,Integer>{
+public interface UsersRepository {
 	
- Users findByName(String email);
+  Users findByName(String username);
 }
